@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskForJuniorDeveloper</string>
+    <string name="hints">All Data From Local Json</string>
+</resources>
