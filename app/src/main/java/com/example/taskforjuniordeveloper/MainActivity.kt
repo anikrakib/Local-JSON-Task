@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         readJsonFile()
         initRecyclerView()
 
+        K
     }
 
     private fun readJsonFile() {
